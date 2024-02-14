@@ -10,4 +10,5 @@
 - The relationship between keywords and vote counts is explored, indicating that specific keywords do not have a significant impact on vote counts.
 - Further analysis is conducted on specific movies, such as "Minions" and "The Shawshank Redemption," to understand why they are popular or highly rated.
 - The analysis concludes that popularity does not necessarily correlate with higher ratings, and further investigation is needed to understand the factors driving popularity and ratings for specific movies.
+
 Overall, the analysis covers basic data loading, data cleaning, visualization, and deeper insights into specific movies based on popularity and ratings.
